@@ -1,4 +1,4 @@
-# 🚗 Control de Portón Automatizado Seguro con ESP32 y Telegram
+# Control de Portón Automatizado Seguro con ESP32 y Telegram 🚗 
 
 Este proyecto permite automatizar y controlar el motor de un portón residencial utilizando un microcontrolador **ESP32** y un bot de **Telegram**. Está diseñado bajo un enfoque de **alta seguridad física y digital**, ideal para reemplazar placas de motores quemadas o añadir control inteligente multiusuario.
 
